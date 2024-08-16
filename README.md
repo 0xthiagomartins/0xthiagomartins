@@ -1,6 +1,6 @@
-# High-Skilled Python Software Developer
+# Software Engineer
 
-Welcome to my GitHub profile! I am a highly skilled software developer specializing in Python, with a diverse range of expertise and a strong focus on delivering high-quality, scalable solutions.
+Welcome to my GitHub profile! I am a highly skilled software developer specializing in Python and Solidity, with a diverse range of expertise and a strong focus on delivering high-quality, scalable solutions.
 
 ## 📁 Collaboration Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white) ![Asana](https://img.shields.io/badge/-Asana-F06A6A?logo=asana&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white) ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?logo=zoom&logoColor=white)
