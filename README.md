@@ -42,3 +42,8 @@ Welcome to my GitHub profile! I am a highly skilled software developer specializ
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-009688?logo=github-copilot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67C?logo=openai&logoColor=white) **Prompt Engineering**, **Langchain**
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+
+---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0xthiagomartins&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xthiagomartins&langs_count=5&theme=tokyonight)]()
