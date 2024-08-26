@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a skilled developer specializing in Python and
 - **System Design**: Microservices, Distributed Systems
 - **Testing**: TDD, PyTest, Selenium
 
-## 🤖 AI Tools
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-009688?logo=github-copilot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67C?logo=openai&logoColor=white)
-
 ## 📊 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0xthiagomartins&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xthiagomartins&langs_count=5&theme=tokyonight)]()
