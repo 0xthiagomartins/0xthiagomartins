@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm a skilled developer specializing in Python and
 - **API Development**: RESTful, GraphQL
 - **Cloud Computing**: AWS, Azure, GCP
 - **DevOps**: CI/CD, Jenkins, GitHub Actions
-- **Blockchain**: Smart Contracts, DeFi, Web3
-- **AI/ML**: TensorFlow, PyTorch, NLP
+- **Web3**: Smart Contracts, DeFi
 - **System Design**: Microservices, Distributed Systems
 - **Testing**: TDD, PyTest, Selenium
 
