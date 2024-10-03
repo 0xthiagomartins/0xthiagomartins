@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a skilled developer specializing in Python and
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?logo=python&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-43B02A?logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-43B02A?logo=puppeteer&logoColor=white)
 
 ### Message Brokers
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C3C3D?logo=eclipsemosquitto&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C3C3D?logo=eclipsemosquitto&logoColor=white) ![NATS](https://img.shields.io/badge/-NATS.io-27AAE1?style=flat&logo=natsdotio&logoColor=white)
 
 ### Testing
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/-Unittest-3776AB?logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
