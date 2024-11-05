@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a skilled developer specializing in Python and
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
 
 ### Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white) ![Pijul](https://img.shields.io/badge/-Pijul-66B2FF?logo=pijul&logoColor=white)
 
 </div>
 <div style="flex: 1; min-width: 300px;">
