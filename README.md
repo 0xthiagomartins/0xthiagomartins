@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm a skilled developer specializing in Python and Solidity, focused on delivering high-quality, scalable solutions.
 
 ## 💻 Core Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Vyper](https://img.shields.io/badge/-Vyper-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Vyper](https://img.shields.io/badge/-Vyper-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white)
+
 
 ## 🚀 TechStack
 
