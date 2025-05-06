@@ -56,23 +56,6 @@ Welcome to my GitHub profile! I'm a skilled developer specializing in Python and
 </div>
 </div>
 
-## 🧠 Conceptual Knowledges
-
-<div style="display: flex; flex-wrap: wrap;">
-<div style="flex: 1; min-width: 300px;">
-
-### Design Patterns
-![singleton](https://img.shields.io/badge/-Singleton-000000?logo=designpatterns&logoColor=white) ![decorator](https://img.shields.io/badge/-Decorator-000000?logo=designpatterns&logoColor=white) ![router](https://img.shields.io/badge/-Router-000000?logo=designpatterns&logoColor=white) ![factory](https://img.shields.io/badge/-Factory-000000?logo=designpatterns&logoColor=white) ![observer](https://img.shields.io/badge/-Observer-000000?logo=designpatterns&logoColor=white) ![strategy](https://img.shields.io/badge/-Strategy-000000?logo=designpatterns&logoColor=white) ![command](https://img.shields.io/badge/-Command-000000?logo=designpatterns&logoColor=white) ![adapter](https://img.shields.io/badge/-Adapter-000000?logo=designpatterns&logoColor=white) ![bridge](https://img.shields.io/badge/-Bridge-000000?logo=designpatterns&logoColor=white) ![composite](https://img.shields.io/badge/-Composite-000000?logo=designpatterns&logoColor=white) ![facade](https://img.shields.io/badge/-Facade-000000?logo=designpatterns&logoColor=white) ![flyweight](https://img.shields.io/badge/-Flyweight-000000?logo=designpatterns&logoColor=white) ![proxy](https://img.shields.io/badge/-Proxy-000000?logo=designpatterns&logoColor=white) ![chain of responsibility](https://img.shields.io/badge/-Chain%20of%20Responsibility-000000?logo=designpatterns&logoColor=white) ![mediator](https://img.shields.io/badge/-Mediator-000000?logo=designpatterns&logoColor=white) ![memento](https://img.shields.io/badge/-Memento-000000?logo=designpatterns&logoColor=white) ![state](https://img.shields.io/badge/-State-000000?logo=designpatterns&logoColor=white) ![template method](https://img.shields.io/badge/-Template%20Method-000000?logo=designpatterns&logoColor=white) ![visitor](https://img.shields.io/badge/-Visitor-000000?logo=designpatterns&logoColor=white)
-
-</div>
-<div style="flex: 1; min-width: 300px;">
-
-### Mathematics
-![calculus](https://img.shields.io/badge/-Calculus-000000?logo=mathematics&logoColor=white) ![linear algebra](https://img.shields.io/badge/-Linear%20Algebra-000000?logo=mathematics&logoColor=white) ![statistics](https://img.shields.io/badge/-Statistics-000000?logo=mathematics&logoColor=white) ![probability](https://img.shields.io/badge/-Probability-000000?logo=mathematics&logoColor=white) ![discrete mathematics](https://img.shields.io/badge/-Discrete%20Mathematics-000000?logo=mathematics&logoColor=white) ![differential equations](https://img.shields.io/badge/-Differential%20Equations-000000?logo=mathematics&logoColor=white) ![number theory](https://img.shields.io/badge/-Number%20Theory-000000?logo=mathematics&logoColor=white) ![abstract algebra](https://img.shields.io/badge/-Abstract%20Algebra-000000?logo=mathematics&logoColor=white) ![real analysis](https://img.shields.io/badge/-Real%20Analysis-000000?logo=mathematics&logoColor=white) ![complex analysis](https://img.shields.io/badge/-Complex%20Analysis-000000?logo=mathematics&logoColor=white) ![topology](https://img.shields.io/badge/-Topology-000000?logo=mathematics&logoColor=white) ![combinatorics](https://img.shields.io/badge/-Combinatorics-000000?logo=mathematics&logoColor=white)
-
-</div>
-</div>
-
 ## 📊 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0xthiagomartins&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xthiagomartins&langs_count=5&theme=tokyonight)]()
