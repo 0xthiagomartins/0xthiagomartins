@@ -43,11 +43,6 @@ Agente que gera resumos de **editais de licitação**. Complementado por um RPA 
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0xthiagomartins&count_private=true&theme=tokyonight&showicons=true)]()
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xthiagomartins&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### Fora do código
 
 - Apaixonado por sistemas descentralizados (DAOs, Web3)  
