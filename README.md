@@ -1,11 +1,12 @@
 # Thiago Martins
 
 Software Engineer | [**Samsung**](https://www.samsung.com/)
+Automation • AI • Data • Web3
 
-Sou desenvolvedor focado em **RPA, sistemas multi-agente e DAOs**, criando soluções que unem **automação, Web3 e inteligência artificial**.  
-Atualmente trabalho na Samsung, onde atuo no desenvolvimento de automações internas e sistemas inteligentes.  
-Paralelamente, mantenho projetos open source que refletem meu interesse por **agentic AI** e **blockchain**.
+Desenvolvedor focado em **automações corporativas, sistemas com IA e engenharia de dados**.  
+Trabalho na **Samsung**, desenvolvendo automações e sistemas inteligentes para ambientes corporativos.
 
+Também desenvolvo **projetos open source** explorando **Agentic AI, Web3 e automação de processos**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/0xthiagomartins)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.fmartins@outlook.com)
 
