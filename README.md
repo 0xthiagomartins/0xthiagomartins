@@ -1,6 +1,7 @@
 # Thiago Martins
 
 Software Engineer | [**Samsung**](https://www.samsung.com/)
+
 Automation • AI • Data • Web3
 
 Desenvolvedor focado em **automações corporativas, sistemas com IA e engenharia de dados**.  
