@@ -7,8 +7,7 @@ Atualmente trabalho na Samsung, onde atuo no desenvolvimento de automações int
 Paralelamente, mantenho projetos open source que refletem meu interesse por **agentic AI** e **blockchain**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/0xthiagomartins)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/0xthiagomartins)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.fmartins@outlook.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.fmartins@outlook.com)
 
 ---
 
