@@ -2,12 +2,11 @@
 
 Software Engineer | [**Samsung**](https://www.samsung.com/)
 
-Automation • AI • Data • Web3
-
 Desenvolvedor focado em **automações corporativas, sistemas com IA e engenharia de dados**.  
 Trabalho na **Samsung**, desenvolvendo automações e sistemas inteligentes para ambientes corporativos.
 
 Também desenvolvo **projetos open source** explorando **Agentic AI, Web3 e automação de processos**.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/0xthiagomartins)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.fmartins@outlook.com)
 
